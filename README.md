@@ -47,7 +47,7 @@ A project written in Assembly x86 that calculates the similarity between two sen
 
 # Demo #  
 Watch this short video that runs the code using dosbox and TASM.  
-![Dem o] (Demo.gif)  
+![Dem o](Demo.gif)  
 ssssss  
 
 
