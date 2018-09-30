@@ -46,6 +46,7 @@ A project written in Assembly x86 that calculates the similarity between two sen
 (𝑆1 ∪ 𝑆2) : the size of the union        of words between s1 and s2  
 
 # Demo #  
-Watch this short video that runs the code using dosbox and TASM.
-![Demo]
+Watch this short video that runs the code using dosbox and TASM.  
+![Demo] https://github.com/mohammedshilleh96/Sentences-Similarity/blob/master/Demo.gif  
+
 
