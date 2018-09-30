@@ -48,5 +48,7 @@ A project written in Assembly x86 that calculates the similarity between two sen
 # Demo #  
 Watch this short video that runs the code using dosbox and TASM.  
 ![Demo] (https://github.com/mohammedshilleh96/Sentences-Similarity/blob/master/Demo.gif)  
+ssssss  
+
 
 
