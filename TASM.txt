@@ -1,0 +1,2 @@
+To run TASM on windows x64, see this link:
+https://www.instructables.com/id/How-to-run-TASM-and-Compile-x86-Assembly-Program-i/

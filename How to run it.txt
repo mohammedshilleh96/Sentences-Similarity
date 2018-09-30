@@ -1,0 +1,9 @@
+Steps:
+1. The first sentence must be in a file called "DATA1.TXT"
+2. The second sentence must be in a file called "DATA2.TXT"
+3. Both files are located in the same directory as the assembly file.
+4. Each sentence must end with a space
+5. TASM Final.ASM
+6. TLINK Final
+7. Final
+8. Done
