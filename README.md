@@ -5,7 +5,7 @@ A project written in Assembly x86 that calculates the similarity between two sen
 1. Read the first  sentence from "DATA1.txt" and save it in s1  
 2. Read the second sentence from "DATA2.txt" and save it in s2  
 3. Remove punctuation marks in s1 and s2 which are 14  
-	1. /  
+	a. /  
 	2. .  
 	3. ?  
 	4. !  
